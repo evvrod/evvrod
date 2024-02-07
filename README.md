@@ -23,12 +23,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/evvrod?theme=dark)
 
 🤝🏻  Contacts
-<div id="contact">
-  <a href="mailto:evvrod@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-evvrod@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
-  </a>
-  <a href="https://t.me/evvrod"> 
-    <img src="https://img.shields.io/badge/Telegram-@evvrod-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/> 
-  </a>
+<div align="left">
+  <a href="mailto:evvrod@gmail.com"><img src="https://img.shields.io/badge/Email-evvrod@gmail.com-393939?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://t.me/evvrod"><img src="https://img.shields.io/badge/Telegram-@evvrod-393939?style=flat-square&logo=telegram" alt="Telegram"></a>
 </div>
 
