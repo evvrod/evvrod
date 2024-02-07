@@ -20,7 +20,7 @@
 <!--[![codewars](https://www.codewars.com/users/evvrod/badges/large)](https://www.codewars.com/users/evvrod) -->
 [![Codewars stats](https://github.r2v.ch/codewars?user=evvrod&top_languages=true&animation=false&hide_clan=true&theme=midnight_purple&stroke=rgb(155,155,155))](https://www.codewars.com/users/evvrod)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/evvrod?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/evvrod?theme=dark&ext=activity)
 
 🤝🏻  Contacts
 <div align="left">
