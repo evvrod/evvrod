@@ -4,17 +4,24 @@
 
 ## 🛠  Tech Stack
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=flat&logo=html5&logoColor=%23E34F26)
+  ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=flat&logo=css3&logoColor=%231572B6)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-764ABC.svg?style=flat&logo=redux&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  ![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=flat&logo=nextdotjs&logoColor=white)
+  ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23323330.svg?style=flat&logo=redux&logoColor=%23764ABC)
 
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23323330.svg?style=flat&logo=git&logoColor=%23F05033)
+  ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=flat&logo=github&logoColor=%23121011)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=flat&logo=figma&logoColor=%23F24E1E)
+  ![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=flat&logo=docker&logoColor=%230db7ed)
 
+## Pet Projects
+
+- Star Wars Search: React, Next.JS (App Router), Redux Toolkit [Project](https://github.com/evvrod/pet-project_star-wars-search) [Deploy](https://pet-project-star-wars-search-q3a46udtf-evvrods-projects.vercel.app/)
+- Coffee House: html, css, JS [Project](https://github.com/evvrod/pet-project_coffee-house) [Deploy](https://rolling-scopes-school.github.io/evvrod-JSFE2023Q4/coffee-house/index.html)
+- Minesweeper game: html, css, JS [Project](https://github.com/evvrod/pet-project_minesweeper-game) [Deploy](https://rolling-scopes-school.github.io/evvrod-JSFEPRESCHOOL2023Q2/js30-random-game/)
 
 ## 💻 Coding Stats
 
